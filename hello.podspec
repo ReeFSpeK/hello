@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'hello'
-  s.version          = '0.1.0'
+  s.version          = 'main'
   s.summary          = 'A short description of hello.'
 
 # This description is used to generate tags and improve search results.
